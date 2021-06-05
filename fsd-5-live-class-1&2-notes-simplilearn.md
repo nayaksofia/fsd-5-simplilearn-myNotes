@@ -163,8 +163,6 @@ Java:  Installation of Selenium libraries for java can be done using `Maven`.Add
 
 ```
 
-Time: 2:00:00
-
 - Right click on the Command Line OF the Command Column -> Insert new command 
 
 ## How to export or export the test cases with java 
@@ -317,7 +315,7 @@ System.out.println("Expected :: " + expectedTitle);
 
 ```
 
-# Maven Based Selenium Test > [Maven + Junit Unit + Selenium ]
+# Maven Based Selenium Test > [Maven + Junit + Selenium ]
 
 Example-1:  
 
@@ -402,7 +400,7 @@ For that, right click `package name` -> Other -> Search `jUnit Test Case` -> Cli
 ```
 Right Click on project -> Run As -> JUnit Test
 ```
-> Note: If sth go wrong while running the `Maven` Project , Right Click On The Project -> Maven -> Update Project -> Ok
+> Note: If sth go wrong while running the `Maven` Project , `Right Click On The Project -> Maven -> Update Project -> Ok`
 
 > Then `Run As-> jUnit Test`
 
